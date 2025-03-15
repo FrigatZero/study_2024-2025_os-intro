@@ -68,7 +68,7 @@ header-includes:
   - \floatplacement{figure}{H} # keep figures where there are in the text
 ---
 
- Цель работы
+# Цель работы
 
 Настроить рабочую среду виртуальной машины с установленной системой fedora sway. [@tuis]
 
